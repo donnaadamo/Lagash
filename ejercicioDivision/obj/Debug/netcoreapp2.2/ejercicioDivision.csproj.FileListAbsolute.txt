@@ -1,0 +1,11 @@
+C:\Users\Lagash\Donna\ejercicioDivision\bin\Debug\netcoreapp2.2\ejercicioDivision.deps.json
+C:\Users\Lagash\Donna\ejercicioDivision\bin\Debug\netcoreapp2.2\ejercicioDivision.runtimeconfig.json
+C:\Users\Lagash\Donna\ejercicioDivision\bin\Debug\netcoreapp2.2\ejercicioDivision.runtimeconfig.dev.json
+C:\Users\Lagash\Donna\ejercicioDivision\bin\Debug\netcoreapp2.2\ejercicioDivision.dll
+C:\Users\Lagash\Donna\ejercicioDivision\bin\Debug\netcoreapp2.2\ejercicioDivision.pdb
+C:\Users\Lagash\Donna\ejercicioDivision\obj\Debug\netcoreapp2.2\ejercicioDivision.csprojAssemblyReference.cache
+C:\Users\Lagash\Donna\ejercicioDivision\obj\Debug\netcoreapp2.2\ejercicioDivision.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Donna\ejercicioDivision\obj\Debug\netcoreapp2.2\ejercicioDivision.AssemblyInfoInputs.cache
+C:\Users\Lagash\Donna\ejercicioDivision\obj\Debug\netcoreapp2.2\ejercicioDivision.AssemblyInfo.cs
+C:\Users\Lagash\Donna\ejercicioDivision\obj\Debug\netcoreapp2.2\ejercicioDivision.dll
+C:\Users\Lagash\Donna\ejercicioDivision\obj\Debug\netcoreapp2.2\ejercicioDivision.pdb
