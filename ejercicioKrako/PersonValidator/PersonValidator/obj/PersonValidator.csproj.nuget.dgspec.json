@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj",
+        "projectName": "PersonRepository",
+        "projectPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj",
+        "packagesPath": "C:\\Users\\Lagash\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lagash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj",
+        "projectName": "PersonValidator",
+        "projectPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj",
+        "packagesPath": "C:\\Users\\Lagash\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lagash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj": {
+                "projectPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

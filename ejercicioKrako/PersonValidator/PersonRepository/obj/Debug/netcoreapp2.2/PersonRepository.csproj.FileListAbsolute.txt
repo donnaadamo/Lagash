@@ -1,0 +1,9 @@
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\bin\Debug\netcoreapp2.2\PersonRepository.deps.json
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\bin\Debug\netcoreapp2.2\PersonRepository.dll
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\bin\Debug\netcoreapp2.2\PersonRepository.pdb
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\obj\Debug\netcoreapp2.2\PersonRepository.csprojAssemblyReference.cache
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\obj\Debug\netcoreapp2.2\PersonRepository.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\obj\Debug\netcoreapp2.2\PersonRepository.AssemblyInfoInputs.cache
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\obj\Debug\netcoreapp2.2\PersonRepository.AssemblyInfo.cs
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\obj\Debug\netcoreapp2.2\PersonRepository.dll
+C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonRepository\obj\Debug\netcoreapp2.2\PersonRepository.pdb
