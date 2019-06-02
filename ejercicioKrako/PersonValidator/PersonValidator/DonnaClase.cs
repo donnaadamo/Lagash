@@ -44,7 +44,14 @@ class DonnaClase : IPersonRepositoryAdvanced
 
     public int GetCountRangeAges(int min, int max)
         {
-            throw new NotImplementedException();
+            /*var range = 0;
+            foreach (Person p in People){
+                if (p.Age >= min && p.Age <= max){
+                    range++;
+                }
+            }
+            return range;*/
+            return People.FindAll(p => p.Age >= min && p.Age <= max).Count;
         }
 
     public List<Person> GetFiltered(string name, int age, string email)
@@ -81,9 +88,30 @@ class DonnaClase : IPersonRepositoryAdvanced
 
         public int[] GetNotCapitalizedIds()
         {
-            List<Person> nC = new List<Person>();
-            nC = People.FindAll(p => );
-            return notCapitalized;
+            List<string> names = new List<string>();
+            List<string> notCapitalized = new List<string>();
+            List<Person> notCapitalizedPerson = new List<Person>();
+            List<int> notCapitalizedId = new List<int>();
+
+            foreach (Person p in People){
+                names.Add(p.Name);
+            }
+
+            var namesSplit = names.ToArray();
+            for (int i=0; i<namesSplit.Length; i++){
+                string[] names2 = namesSplit[i].Split(' ');
+                for (int j=0; j<names2.Length; j++){
+                    if (char.IsLower(names2[j][0])){
+                        notCapitalized.Add(namesSplit[i]);
+                    }
+                }
+            }
+            
+            notCapitalizedPerson = People.FindAll(p => notCapitalized.Contains(p.Name));
+            foreach (Person p in notCapitalizedPerson){
+                notCapitalizedId.Add(p.Id);
+            }
+            return notCapitalizedId.ToArray();
         }
 
         public Dictionary<int, string[]> GroupEmailByNameCount()
