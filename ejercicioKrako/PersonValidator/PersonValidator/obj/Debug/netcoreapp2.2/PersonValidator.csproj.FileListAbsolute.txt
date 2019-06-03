@@ -12,3 +12,17 @@ C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonV
 C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csproj.CopyComplete
 C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.dll
 C:\Users\Lagash\Donna\Ejercicio Ariel K\ejercicio-lu-net-generics-master\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.pdb
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.deps.json
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.runtimeconfig.json
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.runtimeconfig.dev.json
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.dll
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonValidator.pdb
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonRepository.dll
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\bin\Debug\netcoreapp2.2\PersonRepository.pdb
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csprojAssemblyReference.cache
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.AssemblyInfoInputs.cache
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.AssemblyInfo.cs
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.csproj.CopyComplete
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.dll
+C:\Users\Lagash\Donna\LU git\ejercicioKrako\PersonValidator\PersonValidator\obj\Debug\netcoreapp2.2\PersonValidator.pdb

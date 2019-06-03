@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj": {}
+    "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj": {
+    "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj",
+        "projectUniqueName": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj",
         "projectName": "PersonRepository",
-        "projectPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj",
+        "projectPath": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj",
         "packagesPath": "C:\\Users\\Lagash\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\obj\\",
+        "outputPath": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj": {
+    "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj",
+        "projectUniqueName": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj",
         "projectName": "PersonValidator",
-        "projectPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj",
+        "projectPath": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonValidator\\PersonValidator.csproj",
         "packagesPath": "C:\\Users\\Lagash\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonValidator\\obj\\",
+        "outputPath": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonValidator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj": {
-                "projectPath": "c:\\Users\\Lagash\\Donna\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj"
+              "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj": {
+                "projectPath": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicioKrako\\PersonValidator\\PersonRepository\\PersonRepository.csproj"
               }
             }
           }

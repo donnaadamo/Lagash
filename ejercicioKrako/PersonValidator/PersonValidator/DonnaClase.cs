@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Linq;
 
 namespace PersonValidator{
 class DonnaClase : IPersonRepositoryAdvanced
@@ -88,14 +89,13 @@ class DonnaClase : IPersonRepositoryAdvanced
 
         public int[] GetNotCapitalizedIds()
         {
-            List<string> names = new List<string>();
             List<string> notCapitalized = new List<string>();
             List<Person> notCapitalizedPerson = new List<Person>();
-            List<int> notCapitalizedId = new List<int>();
 
-            foreach (Person p in People){
+            List<string> names = People.Select(p => p.Name).ToList();
+            /*foreach (Person p in People){
                 names.Add(p.Name);
-            }
+            }*/
 
             var namesSplit = names.ToArray();
             for (int i=0; i<namesSplit.Length; i++){
@@ -108,15 +108,36 @@ class DonnaClase : IPersonRepositoryAdvanced
             }
             
             notCapitalizedPerson = People.FindAll(p => notCapitalized.Contains(p.Name));
-            foreach (Person p in notCapitalizedPerson){
+            List<int> notCapitalizedId = notCapitalizedPerson.Select(p => p.Id).ToList();
+            /*foreach (Person p in notCapitalizedPerson){
                 notCapitalizedId.Add(p.Id);
-            }
+            }*/
             return notCapitalizedId.ToArray();
         }
 
         public Dictionary<int, string[]> GroupEmailByNameCount()
         {
-            throw new NotImplementedException();
+            
+            Dictionary<int, string[]> diccionario2 = new Dictionary<int, string[]>();
+            Dictionary<int, List<string>> diccionario = new Dictionary<int, List<string>>();
+            
+            foreach (Person p in People){
+                List<string> emails = new List<string>();
+                string[] names2 = p.Name.Split(' ');
+                var countnames = names2.Count();
+                emails.Add(p.Email);
+                if (!diccionario.Keys.Contains(countnames)){
+                    diccionario.Add(countnames, emails);
+                }else{
+                    diccionario[countnames].Add(p.Email);
+                }
+            }
+
+            foreach(var i in diccionario){
+                diccionario2.Add(i.Key, i.Value.ToArray());
+            }
+            
+            return diccionario2;
         }
     }
 }
