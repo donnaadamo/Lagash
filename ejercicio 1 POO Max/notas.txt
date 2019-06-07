@@ -1,0 +1,27 @@
+public class CellPhone : ICamerable, IDiable, IFingerCapable{
+
+}
+
+//voy a tener n atributos que sean camara, tocable, etc. el cellphone esta instanciando objetos que implementan esas interfaces.
+public class CellPhone{
+    private ITouchable touchable;
+    private ICamereable camereable;
+    private ISpeaker speaker;
+
+    public CellPhone(){
+        camereable = new Camereable();
+        speaker = new Speaker();
+    }
+}
+
+public interface ITouchable{
+    FingerTouch();
+    GetPosition();
+    PressDepth();
+}
+
+public class Touchable : ITouchable{
+    public FingerTouch(){
+        //implementation
+    }
+}
