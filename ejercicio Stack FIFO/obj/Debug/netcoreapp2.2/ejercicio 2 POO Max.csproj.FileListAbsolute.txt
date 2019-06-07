@@ -1,0 +1,11 @@
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\bin\Debug\netcoreapp2.2\ejercicio 2 POO Max.deps.json
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\bin\Debug\netcoreapp2.2\ejercicio 2 POO Max.runtimeconfig.json
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\bin\Debug\netcoreapp2.2\ejercicio 2 POO Max.runtimeconfig.dev.json
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\bin\Debug\netcoreapp2.2\ejercicio 2 POO Max.dll
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\bin\Debug\netcoreapp2.2\ejercicio 2 POO Max.pdb
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\obj\Debug\netcoreapp2.2\ejercicio 2 POO Max.csprojAssemblyReference.cache
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\obj\Debug\netcoreapp2.2\ejercicio 2 POO Max.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\obj\Debug\netcoreapp2.2\ejercicio 2 POO Max.AssemblyInfoInputs.cache
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\obj\Debug\netcoreapp2.2\ejercicio 2 POO Max.AssemblyInfo.cs
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\obj\Debug\netcoreapp2.2\ejercicio 2 POO Max.dll
+C:\Users\Lagash\Donna\LU git\ejercicio 2 POO Max\obj\Debug\netcoreapp2.2\ejercicio 2 POO Max.pdb
