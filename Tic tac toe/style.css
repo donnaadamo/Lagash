@@ -1,0 +1,44 @@
+*{margin: 0; padding: 0;}
+body{
+    background-color: #593A27;
+    font-family: raleway;
+    color: #FFF890;
+    text-align: center;
+}
+
+h1{
+    font-size: 3.4em;
+    margin-top: 0.3em;
+}
+
+h2{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#container{
+    height: 31em;
+    width: 40em;
+    margin: auto;
+}
+
+.cuadros{
+    height: 9em;
+    width: 9em;
+    background-color: #A67356;
+    margin: 0.5em;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.cuadros:hover{
+    color: #A67356;
+    background-color: #FFF890;
+    transition:background 0.5s;
+}
+
+#turn{
+    font-size: 90px;
+    margin: auto;
+    padding: 20px;
+}
