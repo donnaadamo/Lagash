@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lagash\\Donna\\LU git\\ejercicio 2 POO Max\\ejercicio 2 POO Max.csproj": {}
+    "c:\\Users\\Lagash\\Donna\\LU git\\ejercicio Stack FIFO\\ejercicio 2 POO Max.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lagash\\Donna\\LU git\\ejercicio 2 POO Max\\ejercicio 2 POO Max.csproj": {
+    "c:\\Users\\Lagash\\Donna\\LU git\\ejercicio Stack FIFO\\ejercicio 2 POO Max.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicio 2 POO Max\\ejercicio 2 POO Max.csproj",
+        "projectUniqueName": "c:\\Users\\Lagash\\Donna\\LU git\\ejercicio Stack FIFO\\ejercicio 2 POO Max.csproj",
         "projectName": "ejercicio 2 POO Max",
-        "projectPath": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicio 2 POO Max\\ejercicio 2 POO Max.csproj",
+        "projectPath": "c:\\Users\\Lagash\\Donna\\LU git\\ejercicio Stack FIFO\\ejercicio 2 POO Max.csproj",
         "packagesPath": "C:\\Users\\Lagash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lagash\\Donna\\LU git\\ejercicio 2 POO Max\\obj\\",
+        "outputPath": "c:\\Users\\Lagash\\Donna\\LU git\\ejercicio Stack FIFO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
